@@ -1,4 +1,4 @@
-# IMIoT course 
+# IM IoT course 
 - This is an intensive IoT course for students who want to know basic IoT communication knowledge in hardware and IoT platform. In this course, we aim for three objectives: wired communication (RS485), Low Power Wide Area Communication (LoRa), and IoT platform connectivity.
 - #RS485/LoRa/IoT Platform
 ### #1 Wired network (RS485/Modbus)
