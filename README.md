@@ -1,4 +1,5 @@
-# IMIoT course - RS485/LoRa/IoT Platform
+# IMIoT course 
+- RS485/LoRa/IoT Platform
 ## This is an intensive IoT course for students who want to know basic IoT communication knowledge in hardware and IoT platform. In this course, we aim on three objectives: wired communication (RS485), Low Power Wide Area Communicaiton (LoRa), and IoT platform connectivity. 
 ### #1 Wired network (RS485/Modbus)
 The most simple communication network(RS485) and protocol (MODBUS). RS485 is a serial communication standard primarily used for data acquisition and control systems. Modbus is a serial communication protocol, widely used in industrial automation, that enables devices to exchange data.
